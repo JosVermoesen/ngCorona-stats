@@ -90,4 +90,3 @@ This app is on Angular 10. Update to latest Angular 10:
 `ng update @angular/cli@10 @angular/core@10`
 
 Follow the instructions eventualy for fixes
-# ngCorona-stats
