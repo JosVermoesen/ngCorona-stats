@@ -6,16 +6,13 @@
     "LanguageModalTitle": "Taalkeuze:",
     "LanguageModalCloseBtnName": "Sluiten"
   },
-
   "FOOTER": {
-    "Title": "ngCorona-stats"
+    "Title": "Corona Statistieken"
   },
-
   "COMMON": {
     "MessageApiWaiting": "Een ogenblik...",
     "MessageApiError": "API is nu niet beschikbaar. Probeer later opnieuw!"
   },
-
   "HOME": {
     "Carousel-Image1": "assets/images/carousel/corona1.jfif",
     "Carousel-Alt1": "eerste slide",
@@ -24,21 +21,18 @@
     "Carousel-Label1": "Corona",
     "Carousel-Info1": "Covid19",
     "Carousel-Button1": "Ga naar de pagina",
-
     "Carousel-Image2": "assets/images/carousel/corona2.jfif",
     "Carousel-Alt2": "tweede slide",
     "Carousel-Link2": "/corona",
     "Carousel-Label2": "Covid19",
     "Carousel-Info2": "Corona",
     "Carousel-Button2": "Probeer de API",
-
     "Carousel-Image3": "assets/images/carousel/corona3.jfif",
     "Carousel-Alt3": "derde slide",
     "Carousel-Link3": "/corona",
     "Carousel-Label3": "Corona",
     "Carousel-Info3": "Covid19",
     "Carousel-Button3": "Test de demo",
-
     "Carousel-Image4": "assets/images/carousel/corona4.jfif",
     "Carousel-Alt4": "vierde slide",
     "Carousel-Link4": "/corona",
@@ -46,7 +40,6 @@
     "Carousel-Info4": "Corona",
     "Carousel-Button4": "Corona API"
   },
-
   "ABOUT": {
     "MainTitle": "Over deze App",
     "MainSub": "Eenvoudige single page toepassing ontwikkeld met Angular en o.a. bootstrap, fontawesome en ngx-translate.",
@@ -56,24 +49,21 @@
     "GithubButton": "Broncode op Github",
     "Image": "assets/images/about/about2.jfif"
   },
-
   "CORONA": {
-    "TabGlobal": "Cijfers Wereldwijd",
-
+    "TabGlobal": "Wereldwijd",
     "WorldLabelLatestUpdate": "Bijgewerkt op",
     "WorldLabelCases": "Totaal besmettingen",
     "WorldLabelTodayCases": "Besmettingen vandaag",
     "WorldLabelDeaths": "Totaal sterfgevallen",
     "WorldLabelTodayDeaths": "Sterfgevallen vandaag",
     "WorldLabelRecovered": "Aantal hersteld",
-    "WorldLabelActive": "Aantal ziek",
-    "WorldLabelCritical": "Aantal kritiek",
+    "WorldLabelActive": "Ziek",
+    "WorldLabelCritical": "Kritiek",
     "WorldLabelCasesPerOneMillion": "Besmettingen per miljoen",
     "WorldLabelDeathsPerOneMillion": "Sterfgevallen per miljoen",
-    "WorldLabelTests": "Aantal tests",
-    "WorldLabelTestsPerOneMillion": "Tests per miljoen",
+    "WorldLabelTests": "Testen",
+    "WorldLabelTestsPerOneMillion": "Testen per miljoen",
     "WorldLabelAffectedCountries": "Getroffen landen",
-
     "TabCountryStatus": "Vandaag",
     "ButtonGetHistoryData": "Grafiekdata ophalen",
     "LabelCountryLatestUpdate": "Bijgewerkt op",
@@ -86,9 +76,8 @@
     "LabelCountryTotalCritical": "Totaal kritiek",
     "LabelCountryPerMillionCases": "Besmettingen per miljoen inwoners",
     "LabelCountryPerMillionDeaths": "Sterfgevallen per miljoen inwoners",
-    "LabelCountryTests": "Totaal tests",
-    "LabelCountryPerMillionTests": "Tests per miljoen inwoners",
-
+    "LabelCountryTests": "Testen",
+    "LabelCountryPerMillionTests": "Testen per miljoen inwoners",
     "TabGraphData": "Grafische som",
     "TabGraphEvalData": "Dagcijfers grafisch",
     "GraphLabel1": "Besmettingen",
