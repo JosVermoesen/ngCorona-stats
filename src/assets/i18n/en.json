@@ -62,7 +62,7 @@
     "WorldLabelDeathsPerOneMillion": "Deaths per million",
     "WorldLabelTests": "Tests",
     "WorldLabelTestsPerOneMillion": "Tests per million",
-    "WorldLabelAffectedCountries": "Countries affected",
+    "WorldLabelAffectedCountries": "Affected Countries",
     "TabCountryStatus": "Today",
     "ButtonGetHistoryData": "Load Graph data",
     "LabelCountryLatestUpdate": "Updated on",
@@ -78,7 +78,7 @@
     "LabelCountryTests": "Tests",
     "LabelCountryPerMillionTests": "Tests per million",
     "TabGraphData": "Graph sum",
-    "TabGraphEvalData": "Graph daily figures",
+    "TabGraphEvalData": "Graph daily numbers",
     "GraphLabel1": "Cases",
     "GraphLabel2": "Deaths",
     "GraphLabel3": "Recovered"

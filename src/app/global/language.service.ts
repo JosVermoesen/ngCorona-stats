@@ -26,30 +26,37 @@ export class LanguageService {
     return [
       {
         text: 'Nederlands',
-        subtext: 'Vlaanderen, Brussel',
+        subtext: 'België, Nederland',
         value: 'nl',
-        img: 'assets/images/flags/nl_small.png',
+        img: 'assets/images/flags/nl.png',
         enabled: true
       },
       {
         text: 'Français',
-        subtext: 'La Wallonie, Bruxelles',
+        subtext: 'La Belgique, La France',
         value: 'fr',
-        img: 'assets/images/flags/fr_small.png',
-        enabled: false
+        img: 'assets/images/flags/fr.png',
+        enabled: true
       },
       {
         text: 'Deutsch',
-        subtext: 'Ostbelgien',
+        subtext: 'Ostbelgien, Deutschland',
         value: 'de',
         img: 'assets/images/flags/de_small.png',
-        enabled: false
+        enabled: true
       },
       {
         text: 'English',
-        subtext: '',
+        subtext: 'Ireland, United Kingdom',
         value: 'en',
-        img: 'assets/images/flags/en_small.png',
+        img: 'assets/images/flags/ie.png',
+        enabled: true
+      },
+      {
+        text: 'Pilipino',
+        subtext: 'Pilipinas',
+        value: 'ph',
+        img: 'assets/images/flags/ph.png',
         enabled: true
       }
     ];
