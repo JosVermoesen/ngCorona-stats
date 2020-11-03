@@ -175,7 +175,7 @@ export class CoronaComponent implements OnInit {
   }
 
   getHistory(country: string) {
-    const historical = this.cs.getCountryHistorical(country, 210);
+    const historical = this.cs.getCountryHistorical(country, 270);
     historical.subscribe(
       (data: ICountryHistorical) => {
         this.countryHistorical = data;
