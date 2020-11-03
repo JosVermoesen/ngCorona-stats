@@ -52,18 +52,18 @@ In angular.json, to avoid CommonJs warnings in development mode, add **allowedCo
 ```json
 "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            ...
+            // other
             "allowedCommonJsDependencies": [
               "chart.js"
             ],
-            ...
+            // other
 ```
 
 ## file angular.json scripts
 
 For use of js from bootstrap and jquiry, add into scripts section:
 
-```bash
+```json
 "scripts": [
               "./node_modules/jquery/dist/jquery.min.js",
               "./node_modules/bootstrap/dist/js/bootstrap.min.js"
@@ -73,11 +73,11 @@ For use of js from bootstrap and jquiry, add into scripts section:
 
 Before building, set resolveJsonModule to 'true' :
 
-```bash
+```json
 "compilerOptions": {
-    ...
+    // other
     "resolveJsonModule": true,
-    ...
+    // other
 ```
 
 ## Good practice 1: use lazy loading modules
